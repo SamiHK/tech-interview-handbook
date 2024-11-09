@@ -16,8 +16,7 @@ function FAANGTechLeads({ position }) {
       rel="noopener"
       onClick={() => {
         window.gtag('event', `faangtechleads.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>
           Craft the perfect resume for FAANG
@@ -39,8 +38,7 @@ function TIHResumeReview({ position }) {
       rel="noopener"
       onClick={() => {
         window.gtag('event', `tih.resume_review.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>
           Get your resume reviewed for free
@@ -57,13 +55,12 @@ function GreatFrontEnd({ position }) {
   return (
     <a
       className={clsx(styles.container, styles.backgroundGreatFrontEnd)}
-      href={`https://www.greatfrontend.com?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=${position}`}
+      href={`https://www.greatfrontend.com?fpr=yangshun&utm_source=techinterviewhandbook&utm_medium=referral&utm_content=${position}`}
       target="_blank"
       rel="noopener"
       onClick={() => {
         window.gtag('event', `greatfrontend.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>LeetCode for Front End</strong>
         Built by ex-FAANG Senior Engineers, <u>GreatFrontEnd</u> is the fastest
@@ -82,8 +79,7 @@ function AlgoMonster({ position }) {
       rel="noopener"
       onClick={() => {
         window.gtag('event', `algomonster.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>
           Stop grinding mindlessly. Study with a plan
@@ -105,8 +101,7 @@ function DesignGurusSystemDesign({ position }) {
       rel="noopener"
       onClick={() => {
         window.gtag('event', `designgurus.system_design.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>Get the job at FAANG</strong>
         <u>Grokking the System Design Interview</u> is a highly recommended
@@ -126,8 +121,7 @@ function ByteByteGoSystemDesign({ position }) {
       rel="noopener"
       onClick={() => {
         window.gtag('event', `bytebytego.system_design.${position}.click`);
-      }}
-    >
+      }}>
       <p className={styles.tagline}>
         <strong className={styles.title}>
           Ace Your Next System Design Interview

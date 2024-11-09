@@ -196,15 +196,27 @@ Some of the best system design interview preparation resources include:
 
 ## Prepare for the behavioral interview
 
-Every top tech company has at least one round of behavioral interviews for software engineers. Typically, behavioral interviews for software engineers include: Sharing about details of previous experiences on resume Providing examples of past situations and behavior that demonstrate certain behavioral attributes (e.g. conflict management, data driven) Sharing of ambitions and career plans
+Every top tech company has at least one round of behavioral interviews for software engineers. Typically, behavioral interviews for software engineers include:
+
+- Sharing about details of previous experiences on resume
+- Providing examples of past situations and behavior that demonstrate certain behavioral attributes (e.g. conflict management skills, being data-driven)
+- Sharing of ambitions and career plans
 
 As much as these interviews seem "fluffy" or unstructured, there is actually a structured way to prepare for behavioral interviews:
 
 ### 1. Know the STAR format for answering them
 
-The STAR format helps you to organize your answers to behavioral questions. This is most applicable to questions that require you to recount past experiences or behavior. Situation: Share details about the situation that gave rise to the task Task: Explain what you needed to achieve or the problems you had to solve, focusing on the scope, severity or specific benchmarks or outcomes you had to hit Action: Explain what you did to meet your objectives, describing options you had and how you made decisions Results: Describe the outcome of your actions and what you learnt
+The **STAR** format helps you to organize your answers to behavioral questions. This is most applicable to questions that require you to recount past experiences or behavior.
 
-Read more: The STAR format for answering behavioral questions
+- **Situation**: Share details about the situation that gave rise to the task
+- **Task**: Explain what you needed to achieve or the problems you had to solve; focus on the
+  - Scope
+  - Severity
+  - Specific benchmarks/outcomes required
+- **Action**: Explain what you did to meet your objectives, describing options you had and how you made decisions
+- **Results**: Describe the outcome of your actions and what you learnt
+
+Read more: [The STAR format for answering behavioral questions](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 
 ### 2. Practice the most common behavioral questions for software engineers
 
